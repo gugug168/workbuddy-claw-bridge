@@ -1,0 +1,8 @@
+*.log
+*.pid
+__pycache__/
+*.pyc
+.env
+live-steering.json
+.DS_Store
+Thumbs.db
